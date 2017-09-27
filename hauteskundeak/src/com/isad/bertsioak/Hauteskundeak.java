@@ -25,6 +25,7 @@ public class Hauteskundeak {
 		h2012.gehituMahaia("Donostia");
 		h2012.gehituMahaia("Tolosa");
 		h2012.gehituMahaia("Alain Carpio");
+                h2012.gehituMahaia("Alain Blanco");
 		
 		System.out.println(h2012);
 	}
